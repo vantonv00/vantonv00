@@ -1,10 +1,13 @@
 //// Hi! vantonv00 here, I am:
 
+// A Junior Configuration Engineer @ Darwin
+
+// A pretty good chef
+
 // Interested in: 
 
     * Machine Learning 
     * Cryptography
-    
     * Solana
     * InfoSec & CyberSec
     * Design
@@ -21,8 +24,6 @@
     * email: vitezanton@gmail.com
     * codepen: codepen.io/vantonv00
   
-// 
-
 <!---
 vantonv00/vantonv00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
